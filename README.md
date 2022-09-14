@@ -1,6 +1,6 @@
 ## 👋Hi, there!
 初来乍到，我是hadwin（由我的名haodong音译而来）。目前是一名 [XDU](https://www.xidian.edu.cn/)人工智能在读研究生。
-- ⚡ 我喜欢：跑步🏃‍，阅读📕，电影🎞️，音乐🎶，数码📱。
+- ⚡ 我喜欢：跑步🏃‍，阅读📕，[电影](https://letterboxd.com/hadwin/)🎞️，[音乐](https://open.spotify.com/user/31rcaefx6jbcvcwjwqs7huoydxbq)🎶，数码📱。
 - ✍️ 我的Blog：[杂记](https://hadwin.noto.so/)
 - 📮 我的邮箱：[hadwin@duck.com](mailto:hadwin@dock.com)
 -   🐧 我的 Twitter：[@JiaHadwin](https://twitter.com/JiaHadwin)
