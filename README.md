@@ -10,7 +10,11 @@
 - 🥋 Boxing / Tai Chi
 - ♟ Chinese Chess / Chess 
 
-<p  align="center">
+---
+<p align="center">
+
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hadwinn.hadwinn" alt="visitor badge"/>
+
 </p>
