@@ -3,7 +3,7 @@
 - ⚡ 我喜欢：跑步🏃‍，阅读📕，[电影](https://letterboxd.com/hadwin/)🎞️，[音乐](https://open.spotify.com/user/31rcaefx6jbcvcwjwqs7huoydxbq)🎶，数码📱。
 - ✍️ 我的Blog：[杂记](https://hadwin.noto.so/)
 - 📮 我的邮箱：[hadwin@duck.com](mailto:hadwin@dock.com)
--   🐧 我的 Twitter：[@JiaHadwin](https://twitter.com/JiaHadwin)
+-   🐧 我的 Twitter：[@hadwin](https://twitter.com/hadwinjia)
 ---
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hadwinn)]()
 
